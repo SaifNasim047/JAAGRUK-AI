@@ -1,0 +1,60 @@
+{
+ "api": "agent_stream",
+ "target": "https://myinsurance.tataaia.com/portfolio/policy/unclaimed-funds/authenticate",
+ "recorded_at": "2026-10-19 13:32",
+ "response": [
+  {
+   "type": "STARTED",
+   "run_id": "1d9e9390-13bf-405c-ac2c-16a14388b23e",
+   "t": 1.09
+  },
+  {
+   "type": "STREAMING_URL",
+   "run_id": "1d9e9390-13bf-405c-ac2c-16a14388b23e",
+   "streaming_url": "https://ip-18-145-230-224.tetra-data.production.tinyfish.io/tf-2e03b63b-c90b-43e1-86e1-82b351911197/stream/0",
+   "t": 3.55
+  },
+  {
+   "type": "PROGRESS",
+   "run_id": "1d9e9390-13bf-405c-ac2c-16a14388b23e",
+   "purpose": "Navigate to unclaimed funds search page",
+   "t": 4.48
+  },
+  {
+   "type": "PROGRESS",
+   "run_id": "1d9e9390-13bf-405c-ac2c-16a14388b23e",
+   "purpose": "Enter policy holder name",
+   "t": 16.16
+  },
+  {
+   "type": "PROGRESS",
+   "run_id": "1d9e9390-13bf-405c-ac2c-16a14388b23e",
+   "purpose": "Enter date of birth",
+   "t": 19.61
+  },
+  {
+   "type": "PROGRESS",
+   "run_id": "1d9e9390-13bf-405c-ac2c-16a14388b23e",
+   "purpose": "Click Proceed to search for unclaimed funds",
+   "t": 22.12
+  },
+  {
+   "type": "PROGRESS",
+   "run_id": "1d9e9390-13bf-405c-ac2c-16a14388b23e",
+   "purpose": "Return final JSON result for unclaimed funds search",
+   "t": 26.12
+  },
+  {
+   "type": "COMPLETE",
+   "run_id": "1d9e9390-13bf-405c-ac2c-16a14388b23e",
+   "status": "COMPLETED",
+   "result": {
+    "found": false,
+    "amount_inr": 0,
+    "holder_name": "",
+    "message": "No unclaimed funds applicable for entered details."
+   },
+   "t": 27.78
+  }
+ ]
+}
