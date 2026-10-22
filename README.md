@@ -6,7 +6,7 @@ each answer, watches official notice boards for changes, catches scam "yojanas",
 citizen approving every step. It works on the **live government web through [TinyFish](https://tinyfish.ai)**.
 
 > **Track:** AI/ML · **Team:** Sagar Hundia · Ayush Awasthi · Saif Nasim · Yash Kumar
-> **Demo video:** _add link_ · **Social post:** _add link_ · **Pitch deck:** [docs/JAAGRUK_pitch_deck.pdf](docs/JAAGRUK_pitch_deck.pdf)
+> **Demo video:** [watch on Google Drive](https://drive.google.com/file/d/1xmVCne5GXeNYrAQTeDHroE9vJfnnNKTA/view?usp=sharing) · **Social post:** [LinkedIn](https://lnkd.in/p/dH2bDxY4) · **Pitch deck:** [docs/JAAGRUK_pitch_deck.pdf](docs/JAAGRUK_pitch_deck.pdf)
 
 ![Haq Meter](docs/screenshots/01-haq-meter.png)
 
@@ -15,7 +15,7 @@ citizen approving every step. It works on the **live government web through [Tin
 ## ⚡ Evaluate in 3 minutes (no API key needed)
 
 ```bash
-git clone <this-repo-url> jaagruk && cd jaagruk
+git clone https://github.com/SaifNasim047/JAAGRUK-AI jaagruk && cd jaagruk
 python -m venv .venv
 # Windows:            .venv\Scripts\activate
 # macOS / Linux:      source .venv/bin/activate

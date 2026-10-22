@@ -1,7 +1,6 @@
 # Social media post (draft — LinkedIn / X)
 
-Attach `docs/screenshots/03-wapsi-live-agent-grid.png` and `01-haq-meter.png` (or the demo video), and replace the
-repo link before posting. Make the post public.
+Attach `docs/screenshots/03-wapsi-live-agent-grid.png` and `01-haq-meter.png` (or the demo video). Make the post public.
 
 ---
 
@@ -21,7 +20,7 @@ We built **JAAGRUK**, an AI agent that works on the *live* government web:
 Everything was tested against the real portals — and what broke made the product better: Indian portals need an
 Indian IP, a "completed" agent run can hide a CAPTCHA, and eligibility rules must be re-verified against the live page.
 
-Code (open source): <GITHUB REPO LINK>
-Demo: <DEMO VIDEO LINK>
+Code (open source): https://github.com/SaifNasim047/JAAGRUK-AI
+Demo: https://drive.google.com/file/d/1xmVCne5GXeNYrAQTeDHroE9vJfnnNKTA/view?usp=sharing
 
 #AI #GovTech #AgenticAI #TinyFish #India #OpenSource
